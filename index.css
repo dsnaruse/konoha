@@ -1,0 +1,16 @@
+html, body {
+    margin: 0;
+    padding: 0;
+
+    background-color: gray;
+}
+
+#code-editor {
+    width: 50%;
+    height: 100%;
+}
+
+#game-view {
+    width: 50%;
+    height: 100%;
+}
